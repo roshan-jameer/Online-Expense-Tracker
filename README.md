@@ -3,6 +3,7 @@ Online Expense Tracker is a web-based application designed to help users efficie
 The application is developed using Core Java with a Servlets and JSP–based MVC architecture, ensuring a clear separation between business logic, presentation layer, and data handling. Hibernate ORM is used for seamless database interaction, reducing boilerplate JDBC code and improving performance and scalability. The frontend is built using Bootstrap, providing a responsive and user-friendly interface across devices.
 
 
+
 ### Key Features
 - User registration and secure login system
 - Add, update, and delete expense and income records
